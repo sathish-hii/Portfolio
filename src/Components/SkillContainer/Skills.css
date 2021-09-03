@@ -1,0 +1,46 @@
+.skills
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skillscontent
+{
+    color: white;
+    flex:0.7;
+    letter-spacing: 1px;
+    max-width: 700px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    align-content: center;
+}
+.skillset_slider> .MuiLinearProgress-colorPrimary{
+background-color: rgb(88, 88, 88);
+}
+.slider1 > div>.MuiLinearProgress-barColorPrimary
+{
+background-color: rebeccapurple;
+}
+.slider2 > div>.MuiLinearProgress-barColorPrimary
+{
+background-color: tomato;
+}
+.slider3 > div>.MuiLinearProgress-barColorPrimary
+{
+background-color: lightgreen;
+}
+.slider4 > div>.MuiLinearProgress-barColorPrimary
+{
+background-color:yellow ;
+}
+.slider5 > div>.MuiLinearProgress-barColorPrimary
+{
+background-color: blue;
+}
+.skillset >h5{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.skillscontent >h2{
+margin-left: 285px;
+}

@@ -1,0 +1,11 @@
+.footer
+{
+    bottom:0 !important;
+    background-color: white;
+    height: 145px;    
+    filter: brightness(0.96);
+}
+.footer_content
+{
+    margin-bottom: 0;
+}
